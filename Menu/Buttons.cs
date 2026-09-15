@@ -458,7 +458,7 @@ new ButtonInfo { buttonText = "Change Gamemode | Spaz ", isTogglable = true, met
             {
                 new ButtonInfo { buttonText = "Back", isTogglable = false, method = () => { Main.category = 0; Main.page = 0; }, },
                 new ButtonInfo { buttonText = "Mr Lag", isTogglable = false, method = () => Credits.MrLag() },
-                new ButtonInfo { buttonText = "Pika/Femboy Client(Made the menu design for me)", isTogglable = false, method = () => Credits.PikaorFemboyClient() },
+                new ButtonInfo { buttonText = "Pika/Bloom(Made the menu design for me)", isTogglable = false, method = () => Credits.PikaorFemboyClient() },
                 new ButtonInfo { buttonText = "Hamburbur(Some Patches, Console and a few Mods)", isTogglable = false, method = () => Credits.HamBurBur() },
                 new ButtonInfo { buttonText = "Seralyth(Console System and a few patches)", isTogglable = false, method = () => Credits.Seralyth() },
                 new ButtonInfo { buttonText = "Untitled(Inspiration for some mods", isTogglable = false, method = () => Credits.Untitled() },
